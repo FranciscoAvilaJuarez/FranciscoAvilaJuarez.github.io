@@ -1,0 +1,36 @@
+.name {
+	color:hsl(0, 100%, 50%);
+	text-align: center;
+}
+.cdmx {
+	color: pink;
+}
+h2 {
+	text-align: center;
+	color: white;
+}
+.container{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+.hero {
+	height: 100%
+	width: 100%;
+	background: linear-gradient(rgba(26, 26, 26, .5), rgba(26, 26, 26, .5)), url("winter.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center; 
+}	
+body {
+	color: white
+}
+p {
+	font-size: 18px;
+}
+li {
+	font-size: 18px;
+}
+
